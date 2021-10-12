@@ -1,5 +1,3 @@
-# Taller: Introducción a Economía de la Complejidad [ESPOL]
-
 Los sistemas complejos, como la célula, las ciudades o la economía, están compuestos por entidades interdependientes que en su conjunto exhiben propiedades y comportamientos que no son obvios a partir de la suma de sus partes individuales, ya que las entidades involucradas reaccionan constantemente a los patrones que ellos mismos crean. Desde la mano invisible de Adam Smith y la creación de la voluntad general de Rousseau, para levantamientos revolucionarios y redes sociales digitales de última generación, la sociedad está llena de complejidades. 
 
 En este taller introductorio, discutiremos los fundamentos de los sistemas complejos y se presentarán herramientas prácticas que se han desarrollado para estudiar la aparición de patrones macro no lineales que surgen de una multiplicidad de micro interacciones dinámicas. Más particularmente, nos enfocaremos en la aplicación de las teorías relacionadas con estos sistemas enfocados en estudio de las economías, con un énfasis especial en el Índice de Complejidad Económica como un indicador de crecimiento económico y potencial productivo de los países. 
