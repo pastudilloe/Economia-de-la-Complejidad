@@ -109,7 +109,3 @@ Alshamsi, A., Pinheiro, F. L., & Hidalgo, C. A. (2018). Optimal diversification 
 The Atlas of Economic Complexity. https://atlas.cid.harvard.edu/
 
 ![image](https://user-images.githubusercontent.com/11298892/137024437-39526209-614a-4af7-b55f-2e69c4b3ea35.png)
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
