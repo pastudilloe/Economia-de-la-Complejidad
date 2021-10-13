@@ -9,34 +9,41 @@ Este taller no intentará ser exhaustivo. En cambio, el objetivo es brindar a lo
 ## Horario de clases y lecturas
 
 
-Este taller será de carácter virtual y tiene una duración de seis horas, distribuidas en tres sábados ()de 09h00 a 11h00. El taller tendrá una modalidad teórica y práctica.
+Este taller será de carácter virtual y tiene una duración de seis horas, distribuidas en tres sábados (23, 30 de octubre y 6 de noviembre)de 09h00 a 11h00. El taller tendrá una modalidad teórica y práctica.
 
 - Las lecturas marcadas con (**) son lecturas esenciales. Si no eres familiar con el material, los papers deben ser leídos antes del inicio del taller. 
-- Las lecturas marcadas con (+) son relacionados al tema principal de la clase. Discutiremos estos papers en profundidad. Antes de cada clase, es requerido que leas estos textos para comprender el contexto global del paper y los principales resultados. No es necesario el conocimiento detallado de los mismos. 
+- Las lecturas marcadas con (++) son relacionados al tema principal de la clase. Discutiremos estos papers en profundidad. Antes de cada clase, es requerido que leas estos textos para comprender el contexto global del paper y los principales resultados. No es necesario el conocimiento detallado de los mismos. 
 - Las lecturas sin asteriscos son opcionales. Estas lecturas son los siguientes pasos naturales si tienes interés en el tema en particular. 
 
-## Programación del taller
+# Programación del taller
 
-### Sesión I: Introducción a Sistemas Complejos y Ciencia de Redes [Sábado, 23 de octubre del 2021]
+## Sesión I: Introducción a Sistemas Complejos y Ciencia de Redes [Sábado, 23 de octubre del 2021]
 
-#### Introducción a Sistemas Complejos: reglas simples, sistemas no-lineares, formación espontanea de patrones, redes, flujos de información, modelamiento basado en agentes. 
+### Introducción a Sistemas Complejos: reglas simples, sistemas no-lineares, formación espontanea de patrones, redes, flujos de información, modelamiento basado en agentes. 
 
 
 ** Domenico, M., Sayama, H. (2019). Complejidad Explicada. Booklet. 
 
-** Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. Capítulo I. Introducción
+** Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. 
+* Capítulo I. Introducción
 
-** Mitchell, M. (2009). Complexity: A guided tour. Oxford University Press. Capítulo I. What is Complexity? 
+** Mitchell, M. (2009). Complexity: A guided tour. Oxford University Press. 
+* Capítulo I. What is Complexity? 
 
-++ Mitchell, M. (2009). Complexity: A guided tour. Oxford University Press. Capítulo II. Dynamics, Chaos, and Prediction. 
+++ Mitchell, M. (2009). Complexity: A guided tour. Oxford University Press. 
+* Capítulo II. Dynamics, Chaos, and Prediction. 
 
-++ Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. Capítulo 1.3. Complex Systems Concepts.
+++ Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. 
+* Capítulo 1.3. Complex Systems Concepts.
 
-++ Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. Capítulo XI. Criticisms and Future Directions.
+++ Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. 
+* Capítulo XI. Criticisms and Future Directions.
 
-Thurner, S., Hanel, R., & Klimek, P. (2018). Introduction to the theory of complex systems. Oxford University Press. Capítulo I. Introduction to Complex Systems 
+Thurner, S., Hanel, R., & Klimek, P. (2018). Introduction to the theory of complex systems. Oxford University Press. 
+* Capítulo I. Introduction to Complex Systems 
 
-Thurner, S., Hanel, R., & Klimek, P. (2018). Introduction to the theory of complex systems. Oxford University Press. Capítulo VII. The Future of Science of Complex Systems?
+Thurner, S., Hanel, R., & Klimek, P. (2018). Introduction to the theory of complex systems. Oxford University Press. 
+* Capítulo VII. The Future of Science of Complex Systems?
 
 Page, S. E. (2018). The model thinker: What you need to know to make data work for you. Basic Books.
 	
@@ -48,27 +55,32 @@ Interactive segregation (GAME). https://ncase.me/polygons/
 Puppies! Now that I´ve got your attention, complexity theory (VIDEO). https://www.ted.com/talks/nicolas_perony_puppies_now_that_i_ve_got_your_attention_complexity_theory
 
 
-#### Introducción a la Ciencia de Redes: Teoría de Grafos, interconectividad y dinámicas
+### Introducción a la Ciencia de Redes: Teoría de Grafos, interconectividad y dinámicas
 
-** Loscalzo, J., & Barabási, A. L. (2016). Network science. Cambridge University Press. Chapter I. Introduction. http://networksciencebook.com/chapter/1
+** Loscalzo, J., & Barabási, A. L. (2016). Network science. Cambridge University Press. 
+*Chapter I. Introduction. http://networksciencebook.com/chapter/1
 
-++ Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. Capítulo 5.1. Networks
+++ Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. 
+*Capítulo 5.1. Networks
 
-++ Loscalzo, J., & Barabási, A. L. (2016). Network science. Cambridge University Press. Chapter II. Graph theory http://networksciencebook.com/chapter/2
+++ Loscalzo, J., & Barabási, A. L. (2016). Network science. Cambridge University Press. 
+*Chapter II. Graph theory http://networksciencebook.com/chapter/2
 
 ++ Vespignani, A. (2018). Twenty years of network science. Nature. Vol.558 (7711), p.528-529
 
 ++ Mitchell, M. (2009). Complexity: A guided tour. Oxford University Press.
--	Capítulo XIV. The Science of Networks
+* Capítulo XIV. The Science of Networks
 
 Albert-Laszlo Barabasi. (2016). Network Science Book. http://networksciencebook.com/
+
 Jackson, M. O. (2019). The Human Network: How We’re Connected and Why It Matters. Atlantic Books.
+
 Newman, M. (2018). Networks, 2nd edn Oxford. UK: Oxford University Press.
 
 
-### Sesión II: Sistemas Complejos, Redes y Economía. [Sábado, 30 de octubre del 2021]
+## Sesión II: Sistemas Complejos, Redes y Economía. [Sábado, 30 de octubre del 2021]
 
-#### Economía de la Complejidad: similitudes, diferencias y complementariedades entre economía tradicional y economía de la complejidad. 
+### Economía de la Complejidad: similitudes, diferencias y complementariedades entre economía tradicional y economía de la complejidad. 
 
 ** Beinhocker, E. D. (2006). The origin of wealth: Evolution, complexity, and the radical remaking of economics. Harvard Business Press.
 
@@ -76,7 +88,7 @@ Newman, M. (2018). Networks, 2nd edn Oxford. UK: Oxford University Press.
 -	Capitulo III. A Critique: Chaos and Cuban Cars
 -	Capítulo IV. The Big Picture: Sugar and Spice 
 
-#### Ciencias de redes en economía: ¿un nuevo paradigma?
+### Ciencias de redes en economía: ¿un nuevo paradigma?
 
 ++ Kirman, A. (2016). Networks: A Paradigm Shift for Economics? (No. hal-01505831). In Bramoullé, Y., Galeotti, A., & Rogers, B. (Eds.). The Oxford handbook of the economics of networks. Oxford University Press.
 
@@ -93,9 +105,9 @@ Kenett, D. Y., & Havlin, S. (2015). Network science: a useful tool in economics 
 Jackson, M. O. (2010). Social and economic networks. Princeton University Press.
 
 
-### Sesión III: Índice de Complejidad Económica y Aplicaciones Prácticas [Sábado, 06 de noviembre del 2021]
+## Sesión III: Índice de Complejidad Económica y Aplicaciones Prácticas [Sábado, 06 de noviembre del 2021]
  
-#### Introducción al Espacio Producto (Product Space) y al Índice de Complejidad Económica
+### Introducción al Espacio Producto (Product Space) y al Índice de Complejidad Económica
 
 ** Hidalgo, C. A. (2021). Economic complexity theory and applications. Nature Reviews Physics, 3(2), 92-113.
 
