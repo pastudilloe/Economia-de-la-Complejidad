@@ -23,12 +23,14 @@ Este taller será de carácter virtual y tiene una duración de seis horas, dist
 
 
 ** Domenico, M., Sayama, H. (2019). Complejidad Explicada. Booklet. 
+
 ** Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. Capítulo I. Introducción
+
 ** Mitchell, M. (2009). Complexity: A guided tour. Oxford University Press. Capítulo I. What is Complexity? 
 
-* Mitchell, M. (2009). Complexity: A guided tour. Oxford University Press. Capítulo II. Dynamics, Chaos, and Prediction. 
-* Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. Capítulo 1.3. Complex Systems Concepts.
-* Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. Capítulo XI. Criticisms and Future Directions.
+ * Mitchell, M. (2009). Complexity: A guided tour. Oxford University Press. Capítulo II. Dynamics, Chaos, and Prediction. 
+ * Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. Capítulo 1.3. Complex Systems Concepts.
+ * Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. Capítulo XI. Criticisms and Future Directions.
 
 Thurner, S., Hanel, R., & Klimek, P. (2018). Introduction to the theory of complex systems. Oxford University Press. Capítulo I. Introduction to Complex Systems 
 
