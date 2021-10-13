@@ -45,11 +45,16 @@ Thurner, S., Hanel, R., & Klimek, P. (2018). Introduction to the theory of compl
 Thurner, S., Hanel, R., & Klimek, P. (2018). Introduction to the theory of complex systems. Oxford University Press. 
 * Capítulo VII. The Future of Science of Complex Systems?
 
+Siegenfeld, A. F., & Bar-Yam, Y. (2020). An introduction to complex systems science and its applications. Complexity, 2020.
+
 Page, S. E. (2018). The model thinker: What you need to know to make data work for you. Basic Books.
 	
 Brockmann, Dirk. Complexity Explorables. http://www.complexity-explorables.org/
+
 Domenico, M., Sayama, H. Complexity Explained. https://complexityexplained.github.io/
+
 Santa Fe Institute. Complexity Explorer. https://www.complexityexplorer.org/
+
 Interactive segregation (GAME). https://ncase.me/polygons/
 
 Puppies! Now that I´ve got your attention, complexity theory (VIDEO). https://www.ted.com/talks/nicolas_perony_puppies_now_that_i_ve_got_your_attention_complexity_theory
@@ -72,6 +77,8 @@ Puppies! Now that I´ve got your attention, complexity theory (VIDEO). https://w
 * Capítulo XIV. The Science of Networks
 
 Albert-Laszlo Barabasi. (2016). Network Science Book. http://networksciencebook.com/
+
+Hidalgo, C. A. (2016). Disconnected, fragmented, or united? A trans-disciplinary review of network science. Applied Network Science, 1(1), 1-19.
 
 Jackson, M. O. (2019). The Human Network: How We’re Connected and Why It Matters. Atlantic Books.
 
@@ -111,7 +118,8 @@ Jackson, M. O. (2010). Social and economic networks. Princeton University Press.
 
 ** Hidalgo, C. A. (2021). Economic complexity theory and applications. Nature Reviews Physics, 3(2), 92-113.
 
-** Hausmann, R., Hidalgo, C. A., Bustos, S., Coscia, M., & Simoes, A. (2014). The atlas of economic complexity: Mapping paths to prosperity. Mit Press. Section 1 to 5. 
+** Hausmann, R., Hidalgo, C. A., Bustos, S., Coscia, M., & Simoes, A. (2014). The atlas of economic complexity: Mapping paths to prosperity. Mit Press. 
+*Section 1 to 5. 
 
 ++ Hidalgo, C. A., Klinger, B., Barabási, A. L., & Hausmann, R. (2007). The product space conditions the development of nations. Science, 317(5837), 482-487.
 
