@@ -136,3 +136,4 @@ Hidalgo, C. A., Balland, P. A., Boschma, R., Delgado, M., Feldman, M., Frenken, 
 Alshamsi, A., Pinheiro, F. L., & Hidalgo, C. A. (2018). Optimal diversification strategies in the networks of related products and of related research areas. Nature communications, 9(1), 1-7.
 
 The Atlas of Economic Complexity. https://atlas.cid.harvard.edu/
+
