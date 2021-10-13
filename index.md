@@ -17,9 +17,9 @@ Este taller será de carácter virtual y tiene una duración de seis horas, dist
 
 # Programación del taller
 
-## Sesión I: Introducción a Sistemas Complejos y Ciencia de Redes [Sábado, 23 de octubre del 2021]
+## Sesión I: Introducción a Sistemas Complejos y Ciencia de Redes [Sábado, 23 de octubre]
 
-### I.I Introducción a Sistemas Complejos: reglas simples, sistemas no-lineares, formación espontanea de patrones, redes, flujos de información, modelamiento basado en agentes. 
+### a) Introducción a Sistemas Complejos: reglas simples, sistemas no-lineares, formación espontanea de patrones, redes, flujos de información, modelamiento basado en agentes. 
 
 
 ** Domenico, M., Sayama, H. (2019). Complejidad Explicada. Booklet. 
@@ -55,7 +55,7 @@ Interactive segregation (GAME). https://ncase.me/polygons/
 Puppies! Now that I´ve got your attention, complexity theory (VIDEO). https://www.ted.com/talks/nicolas_perony_puppies_now_that_i_ve_got_your_attention_complexity_theory
 
 
-### I.II Introducción a la Ciencia de Redes: Teoría de Grafos, interconectividad y dinámicas
+### b) Introducción a la Ciencia de Redes: Teoría de Grafos, interconectividad y dinámicas
 
 ** Loscalzo, J., & Barabási, A. L. (2016). Network science. Cambridge University Press. 
 *Chapter I. Introduction. http://networksciencebook.com/chapter/1
@@ -78,9 +78,9 @@ Jackson, M. O. (2019). The Human Network: How We’re Connected and Why It Matte
 Newman, M. (2018). Networks, 2nd edn Oxford. UK: Oxford University Press.
 
 
-## Sesión II: Sistemas Complejos, Redes y Economía. [Sábado, 30 de octubre del 2021]
+## Sesión II: Sistemas Complejos, Redes y Economía. [Sábado, 30 de octubre]
 
-### II.I Economía de la Complejidad: similitudes, diferencias y complementariedades entre economía tradicional y economía de la complejidad. 
+### a) Economía de la Complejidad: similitudes, diferencias y complementariedades entre economía tradicional y economía de la complejidad. 
 
 ** Beinhocker, E. D. (2006). The origin of wealth: Evolution, complexity, and the radical remaking of economics. Harvard Business Press.
 
@@ -88,7 +88,7 @@ Newman, M. (2018). Networks, 2nd edn Oxford. UK: Oxford University Press.
 -	Capitulo III. A Critique: Chaos and Cuban Cars
 -	Capítulo IV. The Big Picture: Sugar and Spice 
 
-### II.II Ciencias de redes en economía: ¿un nuevo paradigma?
+### b) Ciencias de redes en economía: ¿un nuevo paradigma?
 
 ++ Kirman, A. (2016). Networks: A Paradigm Shift for Economics? (No. hal-01505831). In Bramoullé, Y., Galeotti, A., & Rogers, B. (Eds.). The Oxford handbook of the economics of networks. Oxford University Press.
 
@@ -105,9 +105,9 @@ Kenett, D. Y., & Havlin, S. (2015). Network science: a useful tool in economics 
 Jackson, M. O. (2010). Social and economic networks. Princeton University Press.
 
 
-## Sesión III: Índice de Complejidad Económica y Aplicaciones Prácticas [Sábado, 06 de noviembre del 2021]
+## Sesión III: Índice de Complejidad Económica y Aplicaciones Prácticas [Sábado, 06 de noviembre]
  
-### III.I Introducción al Espacio Producto (Product Space) y al Índice de Complejidad Económica
+### a) Introducción al Espacio Producto (Product Space) y al Índice de Complejidad Económica
 
 ** Hidalgo, C. A. (2021). Economic complexity theory and applications. Nature Reviews Physics, 3(2), 92-113.
 
