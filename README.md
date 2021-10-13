@@ -20,24 +20,24 @@ Este taller será de carácter virtual y tiene una duración de seis horas, dist
 
 # Programación del taller
 
-## Sesión I: Introducción a Sistemas Complejos y Ciencia de Redes [Sábado, 23 de octubre]
+### Sesión I: Introducción a Sistemas Complejos y Ciencia de Redes [Sábado, 23 de octubre]
 
-### a) Introducción a Sistemas Complejos: reglas simples, sistemas no-lineares, formación espontanea de patrones, redes, flujos de información, modelamiento basado en agentes. 
+##### a) Introducción a Sistemas Complejos: reglas simples, sistemas no-lineares, formación espontanea de patrones, redes, flujos de información, modelamiento basado en agentes. 
 
-### b) Introducción a la Ciencia de Redes: Teoría de Grafos, interconectividad y dinámicas
-
-
-
-## Sesión II: Sistemas Complejos, Redes y Economía. [Sábado, 30 de octubre]
-
-### a) Economía de la Complejidad: similitudes, diferencias y complementariedades entre economía tradicional y economía de la complejidad. 
-
-### b) Ciencias de redes en economía: ¿un nuevo paradigma?
+##### b) Introducción a la Ciencia de Redes: Teoría de Grafos, interconectividad y dinámicas
 
 
 
-## Sesión III: Índice de Complejidad Económica y Aplicaciones Prácticas [Sábado, 06 de noviembre]
+### Sesión II: Sistemas Complejos, Redes y Economía. [Sábado, 30 de octubre]
+
+##### a) Economía de la Complejidad: similitudes, diferencias y complementariedades entre economía tradicional y economía de la complejidad. 
+
+##### b) Ciencias de redes en economía: ¿un nuevo paradigma?
+
+
+
+### Sesión III: Índice de Complejidad Económica y Aplicaciones Prácticas [Sábado, 06 de noviembre]
  
-### a) Introducción al Espacio Producto (Product Space) y al Índice de Complejidad Económica
+##### a) Introducción al Espacio Producto (Product Space) y al Índice de Complejidad Económica
 
 
