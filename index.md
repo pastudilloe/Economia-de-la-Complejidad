@@ -9,7 +9,7 @@ Este taller no intentará ser exhaustivo. En cambio, el objetivo es brindar a lo
 ## Horario de clases y lecturas
 
 
-Este taller será de carácter virtual y tiene una duración de seis horas, distribuidas en tres sábados (23, 30 de octubre y 6 de noviembre)de 09h00 a 11h00. El taller tendrá una modalidad teórica y práctica.
+Este taller será de carácter virtual y tiene una duración de seis horas, distribuidas en tres sábados (23, 30 de octubre y 6 de noviembre del 2021) de 09h00 a 11h00. El taller tendrá una modalidad teórica y práctica.
 
 - Las lecturas marcadas con (**) son lecturas esenciales. Si no eres familiar con el material, los papers deben ser leídos antes del inicio del taller. 
 - Las lecturas marcadas con (++) son relacionados al tema principal de la clase. Discutiremos estos papers en profundidad. Antes de cada clase, es requerido que leas estos textos para comprender el contexto global del paper y los principales resultados. No es necesario el conocimiento detallado de los mismos. 
@@ -128,5 +128,3 @@ Hidalgo, C. A., Balland, P. A., Boschma, R., Delgado, M., Feldman, M., Frenken, 
 Alshamsi, A., Pinheiro, F. L., & Hidalgo, C. A. (2018). Optimal diversification strategies in the networks of related products and of related research areas. Nature communications, 9(1), 1-7.
 
 The Atlas of Economic Complexity. https://atlas.cid.harvard.edu/
-
-![image](https://user-images.githubusercontent.com/11298892/137024437-39526209-614a-4af7-b55f-2e69c4b3ea35.png)
