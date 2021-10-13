@@ -28,9 +28,11 @@ Este taller será de carácter virtual y tiene una duración de seis horas, dist
 
 ** Mitchell, M. (2009). Complexity: A guided tour. Oxford University Press. Capítulo I. What is Complexity? 
 
- * Mitchell, M. (2009). Complexity: A guided tour. Oxford University Press. Capítulo II. Dynamics, Chaos, and Prediction. 
- * Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. Capítulo 1.3. Complex Systems Concepts.
- * Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. Capítulo XI. Criticisms and Future Directions.
+* Mitchell, M. (2009). Complexity: A guided tour. Oxford University Press. Capítulo II. Dynamics, Chaos, and Prediction. 
+
+* Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. Capítulo 1.3. Complex Systems Concepts.
+
+* Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. Capítulo XI. Criticisms and Future Directions.
 
 Thurner, S., Hanel, R., & Klimek, P. (2018). Introduction to the theory of complex systems. Oxford University Press. Capítulo I. Introduction to Complex Systems 
 
@@ -52,7 +54,9 @@ Puppies! Now that I´ve got your attention, complexity theory (VIDEO). https://w
 ** Loscalzo, J., & Barabási, A. L. (2016). Network science. Cambridge University Press. Chapter I. Introduction. http://networksciencebook.com/chapter/1
 
 * Tranquillo, J. V. (2019). An introduction to complex systems. Springer International Publishing. Capítulo 5.1. Networks
+
 * Loscalzo, J., & Barabási, A. L. (2016). Network science. Cambridge University Press. Chapter II. Graph theory http://networksciencebook.com/chapter/2
+
 * Vespignani, A. (2018). Twenty years of network science. Nature. Vol.558 (7711), p.528-529
 
 * Mitchell, M. (2009). Complexity: A guided tour. Oxford University Press.
@@ -76,7 +80,9 @@ Newman, M. (2018). Networks, 2nd edn Oxford. UK: Oxford University Press.
 #### Ciencias de redes en economía: ¿un nuevo paradigma?
 
 * Kirman, A. (2016). Networks: A Paradigm Shift for Economics? (No. hal-01505831). In Bramoullé, Y., Galeotti, A., & Rogers, B. (Eds.). The Oxford handbook of the economics of networks. Oxford University Press.
+
 * Goyal, S. (2016). Networks in economics: a perspective on the literature. In Bramoullé, Y., Galeotti, A., & Rogers, B. (Eds.). The Oxford handbook of the economics of networks. Oxford University Press.
+
 * Jackson, M. O. (2016). The past and future of network analysis in economics. In Bramoullé, Y., Galeotti, A., & Rogers, B. (Eds.). The Oxford handbook of the economics of networks. Oxford University Press.
 
 Acemoglu, D., Ozdaglar, A., & Tahbaz-Salehi, A. (2016). Networks, shocks, and systemic risk. In Bramoullé, Y., Galeotti, A., & Rogers, B. (Eds.). The Oxford handbook of the economics of networks. Oxford University Press.
@@ -93,9 +99,11 @@ Jackson, M. O. (2010). Social and economic networks. Princeton University Press.
 #### Introducción al Espacio Producto (Product Space) y al Índice de Complejidad Económica
 
 ** Hidalgo, C. A. (2021). Economic complexity theory and applications. Nature Reviews Physics, 3(2), 92-113.
+
 ** Hausmann, R., Hidalgo, C. A., Bustos, S., Coscia, M., & Simoes, A. (2014). The atlas of economic complexity: Mapping paths to prosperity. Mit Press. Section 1 to 5. 
 
 * Hidalgo, C. A., Klinger, B., Barabási, A. L., & Hausmann, R. (2007). The product space conditions the development of nations. Science, 317(5837), 482-487.
+
 * Hidalgo, C. A., & Hausmann, R. (2009). The building blocks of economic complexity. Proceedings of the national academy of sciences, 106(26), 10570-10575.
 
 Hausmann, R., & Hidalgo, C. A. (2011). The network structure of economic output. Journal of Economic Growth, 16(4), 309-342.
